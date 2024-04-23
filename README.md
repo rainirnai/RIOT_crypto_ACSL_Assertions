@@ -32,7 +32,7 @@ Please follow the steps below in order to replicate the tests in your device.
   ```
   frama-c-gui aes.c -wp
   ```
-  * You can also save the results and view them with the command.
-    ```
-    frama-c-gui load filename
-    ```
+* You can also save the results and view them with the command.
+  ```
+  frama-c-gui load filename
+  ```
